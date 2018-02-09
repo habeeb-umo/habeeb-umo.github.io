@@ -2,7 +2,7 @@ body, html{
   height: 1080px;
   margin: 0;
   padding: 0;
-  background: url("bg/lanterns.jpg") no-repeat;
+  background-image: url("bg/lanterns.jpg") no-repeat;
   background-size: cover;
   background-attachment: fixed;
   background-position: center;
